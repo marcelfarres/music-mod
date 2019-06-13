@@ -4,13 +4,13 @@
 		"appversion" : 		{
 			"major" : 8,
 			"minor" : 0,
-			"revision" : 1,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 869.0, -1361.0, 1212.0, 1327.0 ],
+		"rect" : [ 34.0, 79.0, 1298.0, 655.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -379,7 +379,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 180.0555419921875, 620.0, 29.5, 22.0 ],
-					"text" : "10"
+					"text" : "30"
 				}
 
 			}
@@ -414,8 +414,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 84.166656494140625, 656.0, 59.0, 22.0 ],
-					"text" : "test3.wav"
+					"patching_rect" : [ 84.166656494140625, 656.0, 61.0, 22.0 ],
+					"text" : "test3.mp3"
 				}
 
 			}
@@ -744,7 +744,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 148.611099243164062, 395.0, 29.5, 22.0 ],
-					"text" : "10"
+					"text" : "30"
 				}
 
 			}
@@ -779,8 +779,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 43.166656494140625, 431.0, 59.0, 22.0 ],
-					"text" : "test3.wav"
+					"patching_rect" : [ 43.166656494140625, 431.0, 61.0, 22.0 ],
+					"text" : "test3.mp3"
 				}
 
 			}
@@ -952,7 +952,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 133.75, 191.0, 29.5, 22.0 ],
-					"text" : "10"
+					"text" : "30"
 				}
 
 			}
@@ -987,8 +987,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 13.0, 227.0, 59.0, 22.0 ],
-					"text" : "test3.wav"
+					"patching_rect" : [ 13.0, 227.0, 61.0, 22.0 ],
+					"text" : "test3.mp3"
 				}
 
 			}
@@ -1017,7 +1017,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 7.611099243164062, 837.0, 191.0, 125.0 ],
-					"text" : "\"{\n\t\\\"songPath\\\" : \\\"test3.wav\\\",\n\t\\\"time\\\" : 10,\n\t\\\"startTime\\\" : 5,\n\t\\\"modulation\\\" : 1,\n\t\\\"ActiveFFTBands\\\" : 40\n}\n\""
+					"text" : "\"{\n\t\\\"songPath\\\" : \\\"test3.mp3\\\",\n\t\\\"time\\\" : 30,\n\t\\\"startTime\\\" : 5,\n\t\\\"modulation\\\" : 1,\n\t\\\"ActiveFFTBands\\\" : 40\n}\n\""
 				}
 
 			}
@@ -1692,8 +1692,8 @@
 		"styles" : [ 			{
 				"name" : "newobjYellow-1",
 				"default" : 				{
-					"fontsize" : [ 12.059008 ],
-					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
+					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
+					"fontsize" : [ 12.059008 ]
 				}
 ,
 				"parentstyle" : "",
