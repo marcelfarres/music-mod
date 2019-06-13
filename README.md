@@ -1,6 +1,6 @@
 # Real Time Music Pleasure Modulation
 
-This real time modulations are being use in a neurofeedback study to 
+This real time modulations are being use in a neurofeedback study. Results will be publish soon.
 
 ## Getting Started
 
@@ -70,16 +70,3 @@ The monitor should be called as often as possible to avoid silent errors.
 ## License
 
 This project is licensed under the GNU 3.0 License - see the [LICENSE.md](LICENSE.md) file for details
-<!-- 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc -->
-
-
-<!-- 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. -->
-
